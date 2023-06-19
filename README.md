@@ -1,5 +1,4 @@
-# Week-3-Day-4_CT_Python_HW
-Today's topics will include User Defined Data Structures common to Computer Science
+# Week-3-Day-4_CT_Python_HW ------ Intro to Data Structures
 
 Topics to discuss today:
 Time and Space Complexity - What is it/How do we measure it
